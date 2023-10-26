@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Jennifer Alarcon",
+      "password": "jennifer1993",
+      "birthdate": "1993-12-26",
+      "username": "jenn_jas",
+      "phoneNumber": "3154281024",
+      "userId": "ghujikol6545521",
+      "id": 1
+    },
+    {
+      "name": "Cristian",
+      "password": "cris1234",
+      "birthdate": "2001-01-03",
+      "username": "cris_123",
+      "phoneNumber": "3126549874",
+      "userId": "ghujikol6545521der",
+      "id": 3
+    }
+  ],
+  "following": [
+    {
+      "id": 1,
+      "username": "",
+      "followerId": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": "",
+      "urlContent": "",
+      "description": "",
+      "likesQuantity": "",
+      "commentsQuantity": ""
+    }
+  ]
+}
