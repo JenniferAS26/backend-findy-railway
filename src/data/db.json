@@ -16,7 +16,7 @@
       "username": "cris_123",
       "phoneNumber": "3126549874",
       "userId": "ghujikol6545521der",
-      "id": 3
+      "id": 2
     }
   ],
   "following": [
@@ -34,6 +34,66 @@
       "description": "",
       "likesQuantity": "",
       "commentsQuantity": ""
+    }
+  ],
+  "followerPost": [
+    {
+      "id": 1,
+      "followerId": "kjdfn12",
+      "Photos": [
+        {
+          "nombre": "Jennie",
+          "webp": "https://pin.it/4PORzIL",
+          "descripcion": "sharing with friends"
+        },
+        {
+          "nombre": "Jennie kim",
+          "webp": "https://pin.it/5lpXUUW",
+          "descripcion": "being me"
+        },
+        {
+          "nombre": "Jennie black",
+          "webp": "https://pin.it/3U5r06r",
+          "descripcion": "make-up"
+        },
+        {
+          "nombre": "Jennie festival",
+          "webp": "https://pin.it/4i6Wr6P",
+          "descripcion": "jennie at festival"
+        },
+        {
+          "nombre": "Queen Jennie",
+          "webp": "https://pin.it/QMf7Cl9",
+          "descripcion": "jennie with crown "
+        },
+        {
+          "nombre": "jennie drink",
+          "webp": "https://pin.it/4hXNOBL",
+          "descripcion": "drink"
+        }
+      ],
+      "videos": [
+        {
+          "nombre": "fall.in.love",
+          "webp": "https://www.tiktok.com/@fall.in.love_/video/7251989256309214469?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "hydePark"
+        },
+        {
+          "nombre": "kpop",
+          "webp": "https://www.tiktok.com/@.carlos.ag/video/7242063482189810950?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "I will shine alone"
+        },
+        {
+          "nombre": "firejennies",
+          "webp": "https://www.tiktok.com/@all.about04/video/7280102502127668486?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "she's unreal"
+        },
+        {
+          "nombre": "blackpinkofficial",
+          "webp": "https://www.tiktok.com/@bp_tiktok/video/7287061451779411207?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "highlight clip"
+        }
+      ]
     }
   ]
 }
