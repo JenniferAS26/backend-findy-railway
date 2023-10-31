@@ -6,6 +6,7 @@
       "birthdate": "1993-12-26",
       "username": "jenn_jas",
       "phoneNumber": "3154281024",
+      "postId": "abcd",
       "userId": "ghujikol6545521",
       "id": 1
     },
@@ -29,6 +30,7 @@
   "posts": [
     {
       "id": 1,
+      "postId": "abcd1",
       "userId": "1abc",
       "urlContent": "https://images.unsplash.com/photo-1682687220777-2c60708d6889?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Barrabás; llegó a la familia por vía marítima, anotó la niña Clara con su delicada caligrafía. Ya entonces tenía el hábito de escribir las cosas importantes y más tarde, cuando se quedó muda, escribía también las trivialidades, sin sospechar que cincuenta años después, sus cuadernos me servirían para rescatar la memoria del pasado y para sobrevivir a mi propio espanto. El día que llegó Barrabás; era jueves Santo.",
@@ -37,6 +39,7 @@
     },
     {
       "id": 2,
+      "postId": "abcd2",
       "userId": "2abc",
       "urlContent": "https://images.unsplash.com/photo-1698188154086-724fda0f5989?auto=format&fit=crop&q=80&w=1935&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Venía en una jaula indigna, cubierto de sus propios excrementos y orines, con una mirada extraviada de preso miserable e indefenso, pero ya se adivinaba —por el porte real de su cabeza y el tamaño de su esqueleto— el gigante legendario que llegó a ser. Aquél era un día aburrido y otoñal, que en nada presagiaba los acontecimientos que la niña escribió para que fueran recordados y que ocurrieron durante la misa de doce, en la parroquia de San Sebastián, a la cual asistió con toda su familia.",
@@ -45,6 +48,7 @@
     },
     {
       "id": 3,
+      "postId": "abcd3",
       "userId": "3abc",
       "urlContent": "https://images.unsplash.com/photo-1697440110618-c93170f51c94?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Severo del Valle era ateo y masón, pero tenía ambiciones políticas y no podía darse el lujo de faltar a la misa más concurrida cada domingo y fiesta de guardar, para que todos pudieran verlo",
@@ -53,6 +57,7 @@
     },
     {
       "id": 4,
+      "postId": "abcd4",
       "userId": "4abc",
       "urlContent": "https://images.unsplash.com/photo-1698611229501-65577b4d1084?auto=format&fit=crop&q=80&w=1976&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Se preguntó si no estaría nuevamente encinta. A pesar de los lavados con vinagre y las esponjas con hiel,había dado a luz quince hijos, de los cuales todavía quedaban once vivos, y tenía razones para suponer que ya estaba acomodándose en la madurez, pues su hija Clara, la menor, tenía diez años",
@@ -61,6 +66,7 @@
     },
     {
       "id": 5,
+      "postId": "abcd5",
       "userId": "5abc",
       "urlContent": "https://images.unsplash.com/photo-1698659036249-bf725b48a65f?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Parecía que por fin había cedido el ímpetu de su asombrosa fertilidad. Procuró atribuir su malestar al momento del sermón del padre Restrepo cuando la apuntó para referirse a los fariseos que pretendían legalizar a los bastardos y al matrimonio civil, desarticulando a la familia, la patria, la propiedad y la Iglesia, dando a las mujeres la misma posición que a los hombres, en abierto desafío a la ley de Dios, que en ese aspecto era muy precisa",
@@ -69,6 +75,7 @@
     },
     {
       "id": 6,
+      "postId": "abcd6",
       "userId": "6abc",
       "urlContent": "https://images.unsplash.com/photo-1698584109676-f0d1515a9fe7?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Su extraña belleza tenía una cualidad perturbadora de la cual ni ella escapaba, parecía fabricada de un material diferente al de la raza humana. Nívea supo que no era de este mundo aun antes que naciera, porque la vio en sueños, por eso no le sorprendió que la comadrona diera un grito al verla",
@@ -77,6 +84,7 @@
     },
     {
       "id": 7,
+      "postId": "abcd7",
       "userId": "6abc",
       "urlContent": "https://images.unsplash.com/photo-1608735539513-e312eb840bd8?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Al nacer, Rosa era blanca, lisa, sin arrugas,como una muñeca de loza, con el cabello verde y los ojos amarillos, la criatura más hermosa que había nacido en la tierra desde los tiempos del pecado original, como dijo la comadrona santiguándose.",
@@ -85,6 +93,7 @@
     },
     {
       "id": 8,
+      "postId": "abcd8",
       "userId": "8abc",
       "urlContent": "https://images.unsplash.com/photo-1584730995125-e92011e7e63a?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Desde el primer baño, la Nana le lavó el pelo con infusión de manzanilla, lo cual tuvo la virtud de mitigar el color, dándole una tonalidad de bronce viejo, y la ponía desnuda al sol, para fortalecer su piel, que era translúcida en las zonas más delicadas del vientre y de las axilas, donde se adivinaban las venas y la textura secreta de los músculos.",
@@ -93,6 +102,7 @@
     },
     {
       "id": 9,
+      "postId": "abcd9",
       "userId": "9abc",
       "urlContent": "https://images.unsplash.com/photo-1698426665412-4bf9ee4b510f?auto=format&fit=crop&q=80&w=1976&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Aquellos trucos de gitana, sin embargo, no fueron suficiente y muy pronto se corrió la voz de que les había nacido un ángel.",
@@ -101,6 +111,7 @@
     },
     {
       "id": 10,
+      "postId": "abcd10",
       "userId": "5abc",
       "urlContent": "https://plus.unsplash.com/premium_photo-1694884742260-50858009f040?auto=format&fit=crop&q=80&w=1990&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Algunas personas se dieron vuelta para mirarla y cuchichearon, como a menudo ocurría a su paso, pero Rosa no parecía darse cuenta de nada, era inmune a la vanidad y ese día estaba más ausente que de costumbre, imaginando nuevas bestias para bordar en su mantel",
@@ -109,6 +120,7 @@
     },
     {
       "id": 11,
+      "postId": "abcd11",
       "userId": "5abc",
       "urlContent": "https://images.unsplash.com/photo-1698732896322-467c2de4a475?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Rara vez pensaba en su novio, Esteban Trueba, no por falta de amor, sino a causa de su temperamento olvidadizo y porque dos años de separación son mucha ausencia.",
@@ -117,6 +129,7 @@
     },
     {
       "id": 12,
+      "postId": "abcd12",
       "userId": "5abc",
       "urlContent": "https://images.unsplash.com/photo-1698681908648-962c6048ec3e?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Él estaba trabajando en las minas del Norte. Le escribía metódicamente y a veces Rosa le contestaba enviando versos copiados y dibujos de flores en papel de pergamino con tinta china.",
@@ -125,6 +138,7 @@
     },
     {
       "id": 12,
+      "postId": "abcd13",
       "userId": "4abc",
       "urlContent": "https://images.unsplash.com/photo-1698746044370-4ea50c59c009?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Y en ese momento, como recordara años más tarde Nívea, en medio de la ansiedad y el silencio, se escuchó con toda nitidez la voz de su pequeña Clara. —¡Pst! ¡Padre Restrepo! Si el cuento del infierno fuera pura mentira, nos chingamos todos...",
