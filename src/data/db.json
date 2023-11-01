@@ -22,8 +22,328 @@
   "following": [
     {
       "id": 1,
-      "username": "user_test",
-      "followerId": "User test"
+      "followerId": "0xyz",
+      "coverPhoto": "https://images.unsplash.com/photo-1682686580036-b5e25932ce9a?auto=format&fit=crop&q=80&w=1375&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "userPhoto": "https://images.pexels.com/photos/16690873/pexels-photo-16690873/free-photo-of-mujer-bosque-modelo-retrato.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Paula Valencia",
+      "username": "pau_val",
+      "bio": "Alcanzaron a salir antes que el sacerdote",
+      "photos": [
+        {
+          "nombre": "Jennie",
+          "webp": "https://pin.it/4PORzIL",
+          "descripcion": "sharing with friends"
+        },
+        {
+          "nombre": "Jennie kim",
+          "webp": "https://pin.it/5lpXUUW",
+          "descripcion": "being me"
+        },
+        {
+          "nombre": "Jennie black",
+          "webp": "https://pin.it/3U5r06r",
+          "descripcion": "make-up"
+        },
+        {
+          "nombre": "Jennie festival",
+          "webp": "https://pin.it/4i6Wr6P",
+          "descripcion": "jennie at festival"
+        },
+        {
+          "nombre": "Queen Jennie",
+          "webp": "https://pin.it/QMf7Cl9",
+          "descripcion": "jennie with crown "
+        },
+        {
+          "nombre": "jennie drink",
+          "webp": "https://pin.it/4hXNOBL",
+          "descripcion": "drink"
+        }
+      ],
+      "videos": [
+        {
+          "nombre": "fall.in.love",
+          "webp": "https://www.tiktok.com/@fall.in.love_/video/7251989256309214469?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "hydePark"
+        },
+        {
+          "nombre": "kpop",
+          "webp": "https://www.tiktok.com/@.carlos.ag/video/7242063482189810950?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "I will shine alone"
+        },
+        {
+          "nombre": "firejennies",
+          "webp": "https://www.tiktok.com/@all.about04/video/7280102502127668486?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "she's unreal"
+        },
+        {
+          "nombre": "blackpinkofficial",
+          "webp": "https://www.tiktok.com/@bp_tiktok/video/7287061451779411207?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "highlight clip"
+        }
+      ],
+      "followers": 15,
+      "likes": 200
+    },
+    {
+      "id": 2,
+      "followerId": "1xyz",
+      "coverPhoto": "https://images.unsplash.com/photo-1698132979363-f0fa14b9df4c?auto=format&fit=crop&q=80&w=1454&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "userPhoto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=1376&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Sandra Mejia",
+      "username": "sandy_m",
+      "bio": "pero desde el umbral escucharon su terrible voz de arcángel ofendido",
+      "photos": [
+        {
+          "nombre": "Jennie",
+          "webp": "https://pin.it/4PORzIL",
+          "descripcion": "sharing with friends"
+        },
+        {
+          "nombre": "Jennie kim",
+          "webp": "https://pin.it/5lpXUUW",
+          "descripcion": "being me"
+        },
+        {
+          "nombre": "Jennie black",
+          "webp": "https://pin.it/3U5r06r",
+          "descripcion": "make-up"
+        },
+        {
+          "nombre": "Jennie festival",
+          "webp": "https://pin.it/4i6Wr6P",
+          "descripcion": "jennie at festival"
+        },
+        {
+          "nombre": "Queen Jennie",
+          "webp": "https://pin.it/QMf7Cl9",
+          "descripcion": "jennie with crown "
+        },
+        {
+          "nombre": "jennie drink",
+          "webp": "https://pin.it/4hXNOBL",
+          "descripcion": "drink"
+        }
+      ],
+      "videos": [
+        {
+          "nombre": "fall.in.love",
+          "webp": "https://www.tiktok.com/@fall.in.love_/video/7251989256309214469?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "hydePark"
+        },
+        {
+          "nombre": "kpop",
+          "webp": "https://www.tiktok.com/@.carlos.ag/video/7242063482189810950?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "I will shine alone"
+        },
+        {
+          "nombre": "firejennies",
+          "webp": "https://www.tiktok.com/@all.about04/video/7280102502127668486?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "she's unreal"
+        },
+        {
+          "nombre": "blackpinkofficial",
+          "webp": "https://www.tiktok.com/@bp_tiktok/video/7287061451779411207?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "highlight clip"
+        }
+      ],
+      "followers": 35,
+      "likes": 100
+    },
+    {
+      "id": 3,
+      "followerId": "2xyz",
+      "coverPhoto": "https://images.unsplash.com/photo-1697615787254-2b9ddc3f76a3?auto=format&fit=crop&q=80&w=1454&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "userPhoto": "https://images.unsplash.com/photo-1521119989659-a83eee488004?auto=format&fit=crop&q=80&w=1446&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Phillip Smith",
+      "username": "phill_smt",
+      "bio": "permanecieron en la memoria de la familia con la gravedad",
+      "photos": [
+        {
+          "nombre": "Jennie",
+          "webp": "https://pin.it/4PORzIL",
+          "descripcion": "sharing with friends"
+        },
+        {
+          "nombre": "Jennie kim",
+          "webp": "https://pin.it/5lpXUUW",
+          "descripcion": "being me"
+        },
+        {
+          "nombre": "Jennie black",
+          "webp": "https://pin.it/3U5r06r",
+          "descripcion": "make-up"
+        },
+        {
+          "nombre": "Jennie festival",
+          "webp": "https://pin.it/4i6Wr6P",
+          "descripcion": "jennie at festival"
+        },
+        {
+          "nombre": "Queen Jennie",
+          "webp": "https://pin.it/QMf7Cl9",
+          "descripcion": "jennie with crown "
+        },
+        {
+          "nombre": "jennie drink",
+          "webp": "https://pin.it/4hXNOBL",
+          "descripcion": "drink"
+        }
+      ],
+      "videos": [
+        {
+          "nombre": "fall.in.love",
+          "webp": "https://www.tiktok.com/@fall.in.love_/video/7251989256309214469?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "hydePark"
+        },
+        {
+          "nombre": "kpop",
+          "webp": "https://www.tiktok.com/@.carlos.ag/video/7242063482189810950?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "I will shine alone"
+        },
+        {
+          "nombre": "firejennies",
+          "webp": "https://www.tiktok.com/@all.about04/video/7280102502127668486?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "she's unreal"
+        },
+        {
+          "nombre": "blackpinkofficial",
+          "webp": "https://www.tiktok.com/@bp_tiktok/video/7287061451779411207?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "highlight clip"
+        }
+      ],
+      "followers": 45,
+      "likes": 500
+    },
+    {
+      "id": 4,
+      "followerId": "3xyz",
+      "coverPhoto": "https://images.unsplash.com/photo-1698430310129-17e01f622e96?auto=format&fit=crop&q=80&w=1500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "userPhoto": "https://images.unsplash.com/photo-1698328323530-66443795b6d6?auto=format&fit=crop&q=80&w=1374&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Samantha Daniels",
+      "username": "sam_dan",
+      "bio": "asuntos de poca importancia y en la estricta intimidad del hogar",
+      "photos": [
+        {
+          "nombre": "Jennie",
+          "webp": "https://pin.it/4PORzIL",
+          "descripcion": "sharing with friends"
+        },
+        {
+          "nombre": "Jennie kim",
+          "webp": "https://pin.it/5lpXUUW",
+          "descripcion": "being me"
+        },
+        {
+          "nombre": "Jennie black",
+          "webp": "https://pin.it/3U5r06r",
+          "descripcion": "make-up"
+        },
+        {
+          "nombre": "Jennie festival",
+          "webp": "https://pin.it/4i6Wr6P",
+          "descripcion": "jennie at festival"
+        },
+        {
+          "nombre": "Queen Jennie",
+          "webp": "https://pin.it/QMf7Cl9",
+          "descripcion": "jennie with crown "
+        },
+        {
+          "nombre": "jennie drink",
+          "webp": "https://pin.it/4hXNOBL",
+          "descripcion": "drink"
+        }
+      ],
+      "videos": [
+        {
+          "nombre": "fall.in.love",
+          "webp": "https://www.tiktok.com/@fall.in.love_/video/7251989256309214469?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "hydePark"
+        },
+        {
+          "nombre": "kpop",
+          "webp": "https://www.tiktok.com/@.carlos.ag/video/7242063482189810950?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "I will shine alone"
+        },
+        {
+          "nombre": "firejennies",
+          "webp": "https://www.tiktok.com/@all.about04/video/7280102502127668486?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "she's unreal"
+        },
+        {
+          "nombre": "blackpinkofficial",
+          "webp": "https://www.tiktok.com/@bp_tiktok/video/7287061451779411207?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "highlight clip"
+        }
+      ],
+      "followers": 7,
+      "likes": 2
+    },
+    {
+      "id": 5,
+      "followerId": "4xyz",
+      "coverPhoto": "https://images.unsplash.com/photo-1698612443776-105738d5e939?auto=format&fit=crop&q=80&w=1632&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "userPhoto": "https://images.unsplash.com/photo-1698327797604-bb0f1779ea0c?auto=format&fit=crop&q=80&w=1374&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Charles Shein",
+      "username": "charley_sh",
+      "bio": "Clara era la preferida de la Nana",
+      "photos": [
+        {
+          "nombre": "Jennie",
+          "webp": "https://pin.it/4PORzIL",
+          "descripcion": "sharing with friends"
+        },
+        {
+          "nombre": "Jennie kim",
+          "webp": "https://pin.it/5lpXUUW",
+          "descripcion": "being me"
+        },
+        {
+          "nombre": "Jennie black",
+          "webp": "https://pin.it/3U5r06r",
+          "descripcion": "make-up"
+        },
+        {
+          "nombre": "Jennie festival",
+          "webp": "https://pin.it/4i6Wr6P",
+          "descripcion": "jennie at festival"
+        },
+        {
+          "nombre": "Queen Jennie",
+          "webp": "https://pin.it/QMf7Cl9",
+          "descripcion": "jennie with crown "
+        },
+        {
+          "nombre": "jennie drink",
+          "webp": "https://pin.it/4hXNOBL",
+          "descripcion": "drink"
+        }
+      ],
+      "videos": [
+        {
+          "nombre": "fall.in.love",
+          "webp": "https://www.tiktok.com/@fall.in.love_/video/7251989256309214469?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "hydePark"
+        },
+        {
+          "nombre": "kpop",
+          "webp": "https://www.tiktok.com/@.carlos.ag/video/7242063482189810950?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "I will shine alone"
+        },
+        {
+          "nombre": "firejennies",
+          "webp": "https://www.tiktok.com/@all.about04/video/7280102502127668486?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "she's unreal"
+        },
+        {
+          "nombre": "blackpinkofficial",
+          "webp": "https://www.tiktok.com/@bp_tiktok/video/7287061451779411207?is_from_webapp=1&sender_device=pc&web_id=7295860358455428614",
+          "descripcion": "highlight clip"
+        }
+      ],
+      "followers": 90,
+      "likes": 750
     }
   ],
   "posts": [
@@ -149,7 +469,7 @@
     {
       "id": 1,
       "followerId": "kjdfn12",
-      "Photos": [
+      "photos": [
         {
           "nombre": "Jennie",
           "webp": "https://pin.it/4PORzIL",
