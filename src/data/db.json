@@ -6,7 +6,6 @@
       "birthdate": "1993-12-26",
       "username": "jenn_jas",
       "phoneNumber": "3154281024",
-      "postId": "abcd",
       "userId": "ghujikol6545521",
       "id": 1
     },
@@ -204,6 +203,13 @@
           "descripcion": "highlight clip"
         }
       ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": "abcd1",
+      "content": "Me encanta!"
     }
   ]
 }
