@@ -22,11 +22,11 @@
   "following": [
     {
       "id": 1,
-      "followerId": "0xyz",
+      "followerId": "2abc",
       "coverPhoto": "https://images.unsplash.com/photo-1682686580036-b5e25932ce9a?auto=format&fit=crop&q=80&w=1375&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "userPhoto": "https://images.pexels.com/photos/16690873/pexels-photo-16690873/free-photo-of-mujer-bosque-modelo-retrato.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "name": "Paula Valencia",
-      "username": "pau_val",
+      "name": "Rosa Restrepo",
+      "username": "rose_rr",
       "bio": "Alcanzaron a salir antes que el sacerdote",
       "photos": [
         {
@@ -87,11 +87,11 @@
     },
     {
       "id": 2,
-      "followerId": "1xyz",
+      "followerId": "4abc",
       "coverPhoto": "https://images.unsplash.com/photo-1698132979363-f0fa14b9df4c?auto=format&fit=crop&q=80&w=1454&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "userPhoto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=1376&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "name": "Sandra Mejia",
-      "username": "sandy_m",
+      "name": "Clara del Valle",
+      "username": "clara_clarividente",
       "bio": "pero desde el umbral escucharon su terrible voz de arcángel ofendido",
       "photos": [
         {
@@ -152,11 +152,11 @@
     },
     {
       "id": 3,
-      "followerId": "2xyz",
+      "followerId": "5abc",
       "coverPhoto": "https://images.unsplash.com/photo-1697615787254-2b9ddc3f76a3?auto=format&fit=crop&q=80&w=1454&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "userPhoto": "https://images.unsplash.com/photo-1521119989659-a83eee488004?auto=format&fit=crop&q=80&w=1446&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "name": "Phillip Smith",
-      "username": "phill_smt",
+      "userPhoto": "https://images.unsplash.com/photo-1675469674130-7097cc55f049?auto=format&fit=crop&q=80&w=1430&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Rosa del Valle",
+      "username": "rosa_doll",
       "bio": "permanecieron en la memoria de la familia con la gravedad",
       "photos": [
         {
@@ -217,11 +217,11 @@
     },
     {
       "id": 4,
-      "followerId": "3xyz",
+      "followerId": "6abc",
       "coverPhoto": "https://images.unsplash.com/photo-1698430310129-17e01f622e96?auto=format&fit=crop&q=80&w=1500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "userPhoto": "https://images.unsplash.com/photo-1698328323530-66443795b6d6?auto=format&fit=crop&q=80&w=1374&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "name": "Samantha Daniels",
-      "username": "sam_dan",
+      "name": "Adriana Mejia",
+      "username": "nana_na",
       "bio": "asuntos de poca importancia y en la estricta intimidad del hogar",
       "photos": [
         {
@@ -282,11 +282,11 @@
     },
     {
       "id": 5,
-      "followerId": "4xyz",
+      "followerId": "8abc",
       "coverPhoto": "https://images.unsplash.com/photo-1698612443776-105738d5e939?auto=format&fit=crop&q=80&w=1632&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "userPhoto": "https://images.unsplash.com/photo-1698327797604-bb0f1779ea0c?auto=format&fit=crop&q=80&w=1374&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "name": "Charles Shein",
-      "username": "charley_sh",
+      "name": "Fabian Lopez",
+      "username": "farid_ir",
       "bio": "Clara era la preferida de la Nana",
       "photos": [
         {
